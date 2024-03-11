@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OnlineTicaret",
+    "\\OnlineTicaret\\Controllers",
+    "\\OnlineTicaret\\Views",
+    "\\OnlineTicaret\\Views\\Fatura",
+    "\\OnlineTicaret\\Views\\Kargo"
+  ],
+  "SelectedNode": "\\OnlineTicaret\\Views\\Fatura\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
