@@ -6,6 +6,8 @@ Technologies Used:
 -> Html5
 -> CSS3
 -> Bootstrap
+-> C#
+
 ![Ekran görüntüsü 2024-05-20 151909](https://github.com/smyy325/COMMERCIAL-AUTOMATION-PROJECT/assets/135053124/13aa51db-d786-4278-8896-f240c96934c7)
 ![WhatsApp Image 2024-05-20 at 15 00 52](https://github.com/smyy325/COMMERCIAL-AUTOMATION-PROJECT/assets/135053124/cb8f03fa-f3c7-4b1f-9ae5-51ab3987db0c)
 ![WhatsApp Image 2024-05-20 at 15 04 10 (8)](https://github.com/smyy325/COMMERCIAL-AUTOMATION-PROJECT/assets/135053124/a281cb56-8ce0-446e-b701-70d691d55cc7)
